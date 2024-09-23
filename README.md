@@ -13,4 +13,4 @@ The script downloads dotnet for compiling, compiles the app, and creates a servi
  - `git clone https://github.com/firealarmss/MMDVM_Reflector`
  - `cd MMDVM_Reflector`
  - `chmod +x install.sh`
- - `./installer.sh`
+ - `./install.sh`
