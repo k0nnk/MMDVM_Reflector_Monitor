@@ -10,7 +10,7 @@ The script downloads dotnet for compiling, compiles the app, and creates a servi
  - `apt update && sudo apt upgrade`
  - `apt install git`
  - `cd /opt`
- - `git clone https://github.com/firealarmss/MMDVM_Reflector`
- - `cd MMDVM_Reflector`
+ - `git clone https://github.com/k0nnk/MMDVM_Reflector_Monitor`
+ - `cd MMDVM_Reflector_Monitor`
  - `chmod +x install.sh`
  - `./install.sh`
